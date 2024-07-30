@@ -1,4 +1,4 @@
-# website-pro-GenAI
+# Website-Pro-GenAI
 
 Project Description: AI-Embedded Chatbot for Dynamic Web Interaction
 #### Background:
