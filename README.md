@@ -28,7 +28,8 @@ To achieve these objectives, the project will employ the following methodologies
 
 #### Deliverables:
 The project will deliver:
-A fully functional All-Purpose GenAI-Embedded Agent capable of dynamic web interactions and personalized responses.
+
+- A fully functional All-Purpose GenAI-Embedded Agent capable of dynamic web interactions and personalized responses.
 
 - Integration with Google’s Gemini GenAI for intelligent content analysis and user engagement.
 
