@@ -6,9 +6,13 @@ In an era characterized by vast amounts of information and rapid technological a
 
 #### Objectives:
 The primary objective of this project is to develop an All-Purpose GenAI-Embedded Agent that:
+
 Integrates seamlessly with various web platforms to enhance user engagement.
+
 Utilizes Google’s Gemini GenAI to deliver intelligent, context-aware responses.
+
 Dynamically accesses and interacts with web content to answer user queries effectively.
+
 Supports a wide range of applications, from job searching to personal interests tracking.
 
 #### Methodologies:
@@ -23,9 +27,13 @@ Content Access: Developing real-time mechanisms for the agent to access and inte
 User Interface Design: Creating an intuitive interface that allows users to engage with the agent effortlessly, enhancing the overall user experience.
 
 #### Deliverables:
-The project will deliver the following:
+The project will deliver:
 A fully functional All-Purpose GenAI-Embedded Agent capable of dynamic web interactions and personalized responses.
+
 Integration with Google’s Gemini GenAI for intelligent content analysis and user engagement.
+
 Scalability to support a variety of use cases beyond content delivery, including notifications and updates tailored to user preferences.
+
 Comprehensive documentation and user guides for easy implementation and customization.
+
 This project aspires to redefine user interaction with digital platforms by providing a sophisticated and adaptable GenAI-Embedded Agent that effectively meets diverse user needs across various domains.
