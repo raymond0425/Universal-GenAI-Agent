@@ -1,4 +1,4 @@
-# Website-Pro-GenAI
+# Universal GenAI Agent
 
 Project Description: AI-Embedded Chatbot for Dynamic Web Interaction
 #### Background:
