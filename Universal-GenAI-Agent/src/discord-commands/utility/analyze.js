@@ -12,7 +12,8 @@ module.exports = {
 				.setRequired(true)
 				.setDescription('The url you want to analyze')),
 	async execute(interaction) {
-
+		await interaction.deferReply();
+		
 		const urlOption  = interaction.options._hoistedOptions.find(option => option.name === 'url');
 		var url = urlOption ? urlOption.value.trim() : null;
 
